@@ -6,6 +6,7 @@ import * as actions from '../../actions';
 
 
 
+
 class Login extends Component {
   constructor(props){
     super(props);
@@ -30,8 +31,8 @@ class Login extends Component {
 
 
     const lock = new Auth0Lock( //initiates new lock. Passed down to header
-         process.env.AUTH0_ID,
-         process.env.AUTH0_DOMAIN,
+        process.env.AUTH0_ID,
+        process.env.AUTH0_DOMAIN,
         options
     );
      this.lock = lock;
