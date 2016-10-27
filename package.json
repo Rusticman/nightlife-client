@@ -1,7 +1,7 @@
 {
-  "name": "nightlife app",
+  "name": "nightlife-app",
   "version": "1.0.0",
-  "description": "nightlife app",
+  "description": "nightlife-app",
   "main": "index.js",
   "engines": {
     "node": "4.5.0"
