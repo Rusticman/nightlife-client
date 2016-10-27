@@ -28,6 +28,10 @@ input::-webkit-input-placeholder {
     line-height: 2;
 }
 
+input::-moz-placeholder{
+  font-size: 0.7em;
+  line-height: 2;
+}
 /*initial styling end */
 
 /* homepage beginning */
