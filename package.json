@@ -4,7 +4,8 @@
   "description": "nightlife-app",
   "main": "index.js",
   "engines": {
-    "node": "4.5.0"
+    "node": "4.5.0",
+    "npm": "3.10.7"
   },
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
